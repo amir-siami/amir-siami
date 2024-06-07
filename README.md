@@ -51,8 +51,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=amir-siami&theme=radical&border=7F3FBF&background=0D1117" alt="Amir Siami's GitHub streak"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/amir-siami">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amir-siami&theme=github_dark&utcOffset=8" alt="Productive Time"/>
-  </a>
-</p>
