@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Amir Siami 👋</h1>
 <h3 align="center">Full Stack Web Developer from Iran</h3>
-![Welcome GIF]((https://raw.githubusercontent.com/amir-siami/amir-siami/main/giphy.webp))
+![Welcome GIF](https://raw.githubusercontent.com/amir-siami/amir-siami/main/giphy.webp)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amir-siami/"><img src="https://img.shields.io/badge/-Amir%20Siami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-siami/" alt="LinkedIn"/></a>
