@@ -26,7 +26,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/amir-siami/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://github.com/amirs-web"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://github.com/amirs-web"><img src="https://img.icons8.com/ios-glyphs/30/fff/github.png" alt="GitHub" height="30" width="40" /></a>
 </p>
 
 <p align="center">
