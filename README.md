@@ -8,9 +8,7 @@
   <a href="https://github.com/amir-siami"><img src="https://img.shields.io/github/followers/amir-siami?label=Follow&style=social" alt="GitHub"/></a>
 </p>
 
-<p align="center">Passionate about creating innovative and user-friendly web applications, I have a proven track record of delivering high-quality, user-centric solutions. Adept at driving projects from concept to deployment, I excel in leveraging JavaScript/TypeScript and React/Redux to build seamless interfaces. With a strong focus on UI/UX design and a commitment to lifelong learning and problem-solving, I am dedicated to staying at the forefront of web development technologies.
-
- I enjoy diving into new technologies and languages to keep up with the dynamic nature of the field.</p>
+<p align="left">Passionate about creating innovative and user-friendly web applications, I have a proven track record of delivering high-quality, user-centric solutions. Adept at driving projects from concept to deployment, I excel in leveraging JavaScript/TypeScript and React/Redux to build seamless interfaces. With a strong focus on UI/UX design and a commitment to lifelong learning and problem-solving, I am dedicated to staying at the forefront of web development technologies. I enjoy diving into new technologies and languages to keep up with the dynamic nature of the field.</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
